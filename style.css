@@ -64,10 +64,9 @@ h1 {
   background: linear-gradient(
     270deg,
     hsla(var(--hue), 36%, 57%, 1) 0%,
-      hsla(var(--hue), 65%, 88%, 0.34) 100%
+    hsla(var(--hue), 65%, 88%, 0.34) 100%
   );
 }
-
 
 /* ===== Layout ===== */
 
@@ -117,7 +116,6 @@ nav {
 
 main {
   margin-top: var(--header-height);
-
 }
 /* ===== Home ===== */
 #home {
